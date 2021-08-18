@@ -1,5 +1,5 @@
-const _ = require('lodash');
-const dagreLayout = require("./dagreLayout");
+import _ from 'lodash';
+import dagreLayout from './dagreLayout';
 
 /**
  * 公共方法：返回节点坐标
