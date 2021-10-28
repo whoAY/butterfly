@@ -166,7 +166,7 @@ const nodesAndGroupData = {
     options: {
       title: '测试'
     },
-    draggable:true,
+    draggable: true,
     width: 400,
     height: 200,
     resize: true
@@ -175,7 +175,7 @@ const nodesAndGroupData = {
     options: {
       title: '测试'
     },
-    draggable:true,
+    draggable: true,
     width: 400,
     height: 200,
     resize: true
@@ -301,7 +301,7 @@ const groupsData = {
     options: {
       title: '测试'
     },
-    draggable:true,
+    draggable: true,
     width: 500,
     height: 200,
     resize: true
@@ -310,7 +310,7 @@ const groupsData = {
     options: {
       title: '测试'
     },
-    draggable:true,
+    draggable: true,
     width: 500,
     height: 200,
     resize: true
@@ -571,7 +571,7 @@ const groupInGroupData = {
     options: {
       title: '测试1'
     },
-    draggable:true,
+    draggable: true,
     width: 400,
     height: 200,
     resize: true
@@ -581,7 +581,7 @@ const groupInGroupData = {
     options: {
       title: '测试2'
     },
-    draggable:true,
+    draggable: true,
     width: 400,
     height: 200,
     resize: true
@@ -590,11 +590,11 @@ const groupInGroupData = {
     options: {
       title: '测试3'
     },
-    draggable:true,
+    draggable: true,
     width: 600,
     height: 400,
     resize: true
   }]
-}
+};
 
 module.exports = nodesAndGroupData;
